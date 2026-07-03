@@ -25,9 +25,6 @@ A classroom management application built with Node.js, designed to streamline sc
 ### [Stock Price Forecasting](https://github.com/AiVeN001/Stock-Price-Forecasting)
 An R-based time series forecasting project using ARIMA models to predict stock price trends from historical data.
 
-### [FitTrack](https://github.com/AiVeN001/FitTrack)
-A fitness tracking landing page built on Bubble.io, focused on clean UX and low-code rapid prototyping.
-
 ---
 
 
