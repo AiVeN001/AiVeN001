@@ -30,11 +30,6 @@ A fitness tracking landing page built on Bubble.io, focused on clean UX and low-
 
 ---
 
-## 📊 GitHub Stats
-
-![Tarun's GitHub stats](https://github-readme-stats.vercel.app/api?username=AiVeN001&show_icons=true&theme=default)
-
----
 
 ## 🎓 Certifications
 
